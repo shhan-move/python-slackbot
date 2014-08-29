@@ -1,0 +1,9 @@
+{
+    "client_id": "sth",
+    "client_secret": "sth",
+    "team": "sth",
+    "state": "sth",
+    "redirect_uri": "http://ur.i",
+    "access_token": "token",
+    "botname": "bot"
+}
